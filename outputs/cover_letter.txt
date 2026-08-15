@@ -1,0 +1,21 @@
+**[Date]**
+
+Hiring Manager  
+[Company Name]  
+[Company Address, if known]  
+New Delhi, India  
+
+**Dear Hiring Manager,**
+
+I am writing to express my enthusiastic interest in the Operations Analyst position. With over two years of hands-on experience in program coordination, stakeholder management, and MIS reporting, I have developed a strong foundation in driving operational efficiency and supporting data-informed decision-making. I am excited about the opportunity to contribute my expertise to your team and help streamline operations through precise analysis and process optimization.
+
+Throughout my tenure at BetterPlace Safety Solutions and Mercer, I have consistently aligned my work with the core responsibilities of an Operations Analyst. At Mercer, I coordinated end-to-end delivery of online assessment programs for enterprise and academic clients, serving as the primary liaison between stakeholders and internal teams. I tracked project risks and escalations, ensuring strict SLA compliance and maintaining meticulous documentation across high-volume operations. Similarly, at BetterPlace, I managed client delivery operations and monitored service performance against KPIs, coordinating with cross-functional teams to identify inefficiencies and implement process improvements. These experiences have sharpened my ability to manage stakeholder relationships, facilitate cross-functional collaboration, and deliver results within demanding timelines—directly reflecting the Stakeholder Management and process execution expectations of this role.
+
+A key strength I bring is my proficiency in Advanced Excel and dashboard creation. I have routinely prepared MIS reports and operational dashboards using Excel, leveraging Macros and standardized templates to automate reporting processes and improve accuracy. At Mercer, I drove a significant improvement in reporting accuracy by standardizing MIS workflows, while at BetterPlace, I analyzed workflow data to support strategic business decisions. My ability to transform complex data into clear, visual dashboards aligns seamlessly with the Reporting, Dashboard Creation, and Process Improvement requirements listed in your job description. Furthermore, I have a proven track record of identifying operational bottlenecks and introducing scalable solutions that reduce turnaround time and enhance overall efficiency. My contributions have directly resulted in reduced manual effort, faster cycle times, and higher stakeholder satisfaction, outcomes I am eager to replicate in an analytics-focused role.
+
+While my analytical foundation is rooted in Excel-driven data modeling, I am highly motivated to further develop my SQL capabilities to expand my data querying and manipulation skills. I have successfully handled large datasets involving program metrics, client feedback, and performance indicators, and I am excited to translate this experience into SQL-enabled analysis. I am confident that my strong aptitude for data analysis, combined with my commitment to continuous learning, will allow me to quickly contribute valuable insights to your analytics initiatives.
+
+I am eager to bring my proactive approach, attention to detail, and results-driven mindset to the Operations Analyst role at [Company Name]. Thank you for considering my application. I welcome the opportunity to discuss how my experience in stakeholder management, process optimization, and data reporting can support your team’s objectives. Please feel free to contact me at rishabh20019@gmail.com or +91-8130703589 to arrange a convenient time to connect. I look forward to the possibility of contributing to your organization.
+
+Sincerely,  
+Rishabh Kumar

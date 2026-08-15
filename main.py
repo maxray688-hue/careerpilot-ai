@@ -1,11 +1,14 @@
-from app.agents.resume_analyzer import analyze_resume
+from app.agents.cover_letter_agent import generate_cover_letter
 from app.utils.report_writer import save_report
 
-result = analyze_resume("uploads/resume.pdf")
+cover_letter = generate_cover_letter(
+    "uploads/resume.pdf",
+    "uploads/job_description.txt"
+)
 
-report_path = save_report("resume_analysis.txt", result)
+report_path = save_report("cover_letter.txt", cover_letter)
 
-print(f"\nReport saved successfully: {report_path}\n")
+print("\n========== COVER LETTER ==========\n")
+print(cover_letter)
 
-print("\n========== RESUME ANALYSIS ==========\n")
-print(result)
+print(f"\nCover letter saved successfully: {report_path}")
