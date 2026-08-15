@@ -1,11 +1,11 @@
-from app.services.resume_reader import read_resume
-from app.services.jd_reader import read_jd
-from app.services.jd_matcher import match_resume
+from app.agents.resume_analyzer import analyze_resume
+from app.utils.report_writer import save_report
 
-resume = read_resume("uploads/resume.pdf")
-jd = read_jd("uploads/job_description.txt")
+result = analyze_resume("uploads/resume.pdf")
 
-result = match_resume(resume, jd)
+report_path = save_report("resume_analysis.txt", result)
 
-print("\n========== JD MATCH REPORT ==========\n")
+print(f"\nReport saved successfully: {report_path}\n")
+
+print("\n========== RESUME ANALYSIS ==========\n")
 print(result)

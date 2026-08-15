@@ -1,0 +1,43 @@
+### 1. Professional Summary
+**Operations Professional with 2+ years of experience in program coordination, stakeholder management, MIS reporting, and process improvement.** Skilled in managing end-to-end program/project execution, aligning cross-functional teams, tracking timelines and SLAs, and maintaining accurate documentation. Strong Advanced Excel and dashboard skills with a proven track record of driving operational excellence and improving reporting accuracy.
+
+---
+
+### 2. Strengths
+- **Keyword Optimization:** Core skills directly align with Operations/Program Manager roles (Program Coordination, MIS Reporting, SLA Management, Cross-functional Collaboration, Risk & Issue Management, Advanced Excel).
+- **Clear Structure:** Standard ATS-friendly sections (Contact, Summary, Skills, Experience, Education, Achievements) with readable headings.
+- **Relevant Experience:** Two progressive roles (Mercer → BetterPlace) demonstrate growing responsibility in client delivery and program operations.
+- **Technical Proficiency:** Explicit mention of Excel, Macros, dashboards, and standardized templates scores well for data-heavy roles.
+- **Quantifiable Claims:** Includes strong achievement statements (100% operational compliance, high-volume program management) that catch ATS attention.
+
+---
+
+### 3. Weaknesses
+- **Date Inconsistency:** "Executive – Operations & Client Delivery, Mercer (Aug 2025 – Present)" is likely a typo (future date). ATS may flag this as data entry error; fix to a realistic past/present date.
+- **Lack of Quantified Metrics:** Many bullets describe scope ("managed high-volume," "improved efficiency") without numbers (e.g., volume of programs, percentage improvements, team size, KPI scores). ATS and recruiters prefer metric-backed accomplishments.
+- **Formatting Minor Issues:** Double spaces in contact section ("Rishabh  Kumar," "New  Delhi") and section headings; while ATS handles these, cleaning them improves parsing.
+- **Achievement Redundancy:** The "Achievements" section repeats themes from the Experience bullets. Better to integrate or uniquely synthesize.
+- **Education Date Overlap:** B.Sc. (2022–2025) suggests current student/sub-recent grad; ensure the "2 years experience" alignment is clear and the resume doesn't read as a student profile applying for senior roles.
+
+---
+
+### 4. ATS Score: 78/100
+**Reasoning:** The resume passes core ATS checks (standard sections, relevant keywords, no tables/images/columns). Minor deductions for the future-dated employment entry, lack of quantified metrics, and slight formatting inconsistencies. Well-structured enough to parse successfully, but optimization will boost both ATS pass rate and recruiter engagement.
+
+---
+
+### 5. Suggestions to Improve the Resume
+1. **Fix the Date Anomaly:** Change "Aug 2025 – Present" to "Aug 2024 – Present" (or appropriate end date) to maintain credibility and ATS date validity.
+2. **Add Hard Numbers & Metrics:** Replace vague descriptions with quantified results:
+   - e.g., "Managed operations for 3 enterprise clients & 2 university programs simultaneously"
+   - "Improved MIS reporting accuracy from 85% to 100% via standardized Excel templates"
+   - "Reduced SLA breach rate by 20% through proactive risk tracking and escalation protocols"
+   - "Coordinated 15+ concurrent program deliveries with 98% on-time completion"
+3. **Consolidate Achievements:** Merge the separate "Achievements" section into the Experience bullets or use them as a brief "Key Accomplishments" header right after the Summary. Avoid duplication.
+4. **Clean Formatting:** Remove double spaces in name/location. Use a single, clean font (Arial, Calibri, or Roboto) and avoid tables/columns; stick to plain text or a single-column layout.
+5. **Prioritize Experience Over Education:** Since you have 2+ years of relevant professional experience, move the "Professional Experience" section above "Education" to ensure it's the first substantial content ATS scans.
+6. **Tailor Keywords:** Review 2–3 job descriptions for target roles. Ensure exact phrasing of required skills (e.g., "Stakeholder Management" vs. "Stakeholder Management & Communication") appears in your Core Skills and bullets.
+7. **Strengthen Action Verb Variety:** Ensure every bullet starts with a strong verb (Coordinated, Spearheaded, Optimized, Spearheaded, Spearheaded). Your current bullets are strong, but adding a few "Spearheaded," "Optimized," or "Streamlined" can improve impact.
+8. **Consider a "Tools & Technologies" Sub-section:** List specific software (e.g., Microsoft Excel (Pivot Tables, VLOOKUP, Macros), Power BI, Tableau, Asana/Jira, CRM platforms) if applicable, as ATS often searches for tool-specific terms.
+
+**Final Thought:** This is a solid foundation for an Operations/Program Coordination role. With the date fix, added metrics, and minor formatting cleanup, the resume will be ATS-resilient and highly competitive for mid-level operations roles.
